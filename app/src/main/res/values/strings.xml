@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ingressos</string>
+    <string name="autor">Gustavo de Paula 1110482313003</string>
+    <string name="id">Identificador</string>
+    <string name="valor">Valor</string>
+    <string name="taxa">Taxa de Conveniencia</string>
+    <string name="funcao">Funcao</string>
+    <string name="calcular">Calcular</string>
+    <string name="vip">VIP</string>
+    <string name="voltar">Voltar</string>
+</resources>
